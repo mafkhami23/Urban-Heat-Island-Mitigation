@@ -77,7 +77,7 @@ It also demonstrated how huge majority [ >90%] low-income participants either ag
 ---
 
 ## 📚 Publications & References
-- [We Need to Chill Out: Reducing the Heat Island Effect Through Design]([https://your-link.com/publication1.pdf](https://www.corgan.com/news-insights/2024/we-need-to-chill-out-reducing-the-heat-island-effect-through-design))
+- [We Need to Chill Out: Reducing the Heat Island Effect Through Design](https://www.corgan.com/news-insights/2024/we-need-to-chill-out-reducing-the-heat-island-effect-through-design))
 
 ---
 
