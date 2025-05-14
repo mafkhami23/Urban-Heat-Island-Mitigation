@@ -1,4 +1,7 @@
 # Urban-Heat-Island-Mitigation
+
+![LST and NDVI Composite Map](https://github.com/user-attachments/assets/a3bd6db0-83f8-4054-b5f6-6206b2f5d671)
+
 ## 📘 Introduction
 This project is a data-driven investigation into the growing threat of urban heat islands (UHI) in American cities. Using a combination of satellite imagery, socioeconomic data, and first-hand community surveys, the study reveals how temperature extremes are not only shaped by the built environment but also affect behavior, health, and urban livability. Conducted in Dallas, Texas, this research serves as a blueprint for cities aiming to develop informed, equitable, and heat-resilient design strategies.
 
@@ -17,7 +20,7 @@ This project integrates geospatial satellite data, socioeconomic overlays, and q
 - **15 resident interviews per study zone** (60+ total), capturing behavioral and emotional responses to extreme heat
 - **Likert-scale survey data** to statistically analyze impacts of heat on daily life, outdoor activity, and concern levels
 
-![LST and NDVI Composite Map](https://your-image-url.com/lst-ndvi-map.png)
+
 
 ---
 
