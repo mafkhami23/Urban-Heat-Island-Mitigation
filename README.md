@@ -44,7 +44,7 @@ The study selected five differentneighborhood and residential areas based on thi
 ![Influence of Heat Wave on Community Engagement](https://github.com/user-attachments/assets/1feb3981-422d-4a31-9009-cf71d01b4f6f)
 
 The study showed that heat related issues are major concern for people living in urban envieonments and the configuration of each neighborhood plays a statistically significant role in the magnitude of behaviors in reaction to heatwave.
-It also demonstrated how huge majority [ >90%] low-income participants either agree or strongly agree that high temperature has curtailed their outoor activities
+It also demonstrated how huge majority [>90%] low-income participants either agree or strongly agree that high temperature has curtailed their outoor activities.
 ---
 
 ## 🏙️ Design Recommendations
@@ -77,7 +77,7 @@ It also demonstrated how huge majority [ >90%] low-income participants either ag
 ---
 
 ## 📚 Publications & References
-- [We Need to Chill Out: Reducing the Heat Island Effect Through Design](https://www.corgan.com/news-insights/2024/we-need-to-chill-out-reducing-the-heat-island-effect-through-design))
+- [We Need to Chill Out: Reducing the Heat Island Effect Through Design](https://www.corgan.com/news-insights/2024/we-need-to-chill-out-reducing-the-heat-island-effect-through-design)
 
 ---
 
