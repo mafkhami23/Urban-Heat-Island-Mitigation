@@ -10,6 +10,8 @@ In the summer of 2023, many regions in the U.S. experienced the hottest recorded
 
 Cities—while only covering 1% of Earth’s surface—consume 78% of global energy. Urban materials like asphalt and concrete trap heat, intensifying the Urban Heat Island (UHI) effect. UHI increases cooling costs, worsens air quality, and elevates health risks, especially among vulnerable populations. Understanding and mitigating this phenomenon is critical for the future of urban design.
 
+![2023 - 2053 Extreme Heat Days Map by County](https://github.com/user-attachments/assets/5d9ecfba-1103-4439-adcf-2a13177e8639)
+
 ---
 
 ## 🔍 Research Scope
@@ -20,6 +22,11 @@ This project integrates geospatial satellite data, socioeconomic overlays, and q
 - **15 resident interviews per study zone** (60+ total), capturing behavioral and emotional responses to extreme heat
 - **Likert-scale survey data** to statistically analyze impacts of heat on daily life, outdoor activity, and concern levels
 
+The study selected five differentneighborhood and residential areas based on thier factors such as:
+- **Population density
+- **Proximity to downtown
+- ** Socioeconomic status
+![Study Zones](https://github.com/user-attachments/assets/93b499ce-e4e9-4eb7-876c-9062df85a0ed)
 
 
 ---
@@ -30,11 +37,14 @@ This project integrates geospatial satellite data, socioeconomic overlays, and q
 - **>90%** of residents reported reduced outdoor activity during extreme heat
 - **Indoor activity, sleep disruption, and health concerns** increased with higher LST and lower NDVI
 - **Statistical significance** was found between neighborhood typologies, vegetation levels, and behavioral impacts
+- 
+![Heat Related Issues by Neighborhood](https://github.com/user-attachments/assets/d038fb21-013b-4964-86e1-656391ac0312)
 
-![Chart: LST vs Parcel Type](https://your-image-url.com/lst-vs-parcel-type.png)
+
 ![Influence of Heat Wave on Community Engagement](https://github.com/user-attachments/assets/1feb3981-422d-4a31-9009-cf71d01b4f6f)
 
-
+The study showed that heat related issues are major concern for people living in urban envieonments and the configuration of each neighborhood plays a statistically significant role in the magnitude of behaviors in reaction to heatwave.
+It also demonstrated how huge majority [ >90%] low-income participants either agree or strongly agree that high temperature has curtailed their outoor activities
 ---
 
 ## 🏙️ Design Recommendations
