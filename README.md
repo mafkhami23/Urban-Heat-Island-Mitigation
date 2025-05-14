@@ -45,7 +45,7 @@ The study selected five differentneighborhood and residential areas based on thi
 
 The study showed that heat related issues are major concern for people living in urban envieonments and the configuration of each neighborhood plays a statistically significant role in the magnitude of behaviors in reaction to heatwave.
 It also demonstrated how huge majority [>90%] low-income participants either agree or strongly agree that high temperature has curtailed their outoor activities.
----
+
 
 ## 🏙️ Design Recommendations
 
