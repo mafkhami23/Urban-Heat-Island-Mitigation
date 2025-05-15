@@ -10,7 +10,8 @@ In the summer of 2023, many regions in the U.S. experienced the hottest recorded
 
 Cities—while only covering 1% of Earth’s surface—consume 78% of global energy. Urban materials like asphalt and concrete trap heat, intensifying the Urban Heat Island (UHI) effect. UHI increases cooling costs, worsens air quality, and elevates health risks, especially among vulnerable populations. Understanding and mitigating this phenomenon is critical for the future of urban design.
 
-![2023 - 2053 Extreme Heat Days Map by County](https://github.com/user-attachments/assets/5d9ecfba-1103-4439-adcf-2a13177e8639)
+![2023 - 2053 Extreme Heat Days Map by County](https://github.com/user-attachments/assets/b7c407a1-8917-4709-9c86-4f307df725fa)
+
 
 ---
 
